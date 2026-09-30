@@ -1,0 +1,77 @@
+{
+  "days": {
+    "2026-09-30": {
+      "date": "2026-09-30",
+      "study_sessions": 3,
+      "break_sessions": 1,
+      "study_seconds": 240,
+      "break_seconds": 60,
+      "completed_study_sessions": 3,
+      "completed_break_sessions": 1,
+      "events": [
+        {
+          "time": "2026-09-30T20:10:41",
+          "type": "study_started",
+          "details": "2 minute(s)"
+        },
+        {
+          "time": "2026-09-30T20:12:42",
+          "type": "study_completed",
+          "details": "2 minute(s)"
+        },
+        {
+          "time": "2026-09-30T20:13:04",
+          "type": "break_started",
+          "details": "1 minute(s)"
+        },
+        {
+          "time": "2026-09-30T20:14:04",
+          "type": "break_completed",
+          "details": "1 minute(s)"
+        },
+        {
+          "time": "2026-09-30T20:14:43",
+          "type": "day_ended",
+          "details": "- clock app banaye\n- test kya 2 min study and 1 min breack"
+        },
+        {
+          "time": "2026-09-30T20:16:23",
+          "type": "study_started",
+          "details": "1 minute(s)"
+        },
+        {
+          "time": "2026-09-30T20:17:24",
+          "type": "study_completed",
+          "details": "1 minute(s)"
+        },
+        {
+          "time": "2026-09-30T20:21:51",
+          "type": "day_ended",
+          "details": "- clock app banaye\n- test kya 2 min study and 1 min breack"
+        },
+        {
+          "time": "2026-09-30T20:22:22",
+          "type": "study_started",
+          "details": "1 minute(s)"
+        },
+        {
+          "time": "2026-09-30T20:23:23",
+          "type": "study_completed",
+          "details": "1 minute(s)"
+        },
+        {
+          "time": "2026-09-30T20:29:01",
+          "type": "day_ended",
+          "details": "- clock app banaye\n- test kya 2 min study and 1 min breack\n-mayur makwana"
+        },
+        {
+          "time": "2026-09-30T20:29:17",
+          "type": "day_ended",
+          "details": "- clock app banaye\n- test kya 2 min study and 1 min breack\n- mayur makwana"
+        }
+      ],
+      "day_ended": true,
+      "day_end_note": "- clock app banaye\n- test kya 2 min study and 1 min breack\n- mayur makwana"
+    }
+  }
+}
